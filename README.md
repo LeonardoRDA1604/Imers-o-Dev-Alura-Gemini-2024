@@ -1,4 +1,4 @@
-# Projeto: Busca de Atletas do Cruzeiro (Projeto criado na Semana de Imersão Dev da Alura em parceria com o Google Gemini).
+# Projeto: Busca de Atletas do Cruzeiro (Projeto criado na Semana de Imersão Dev Front End da Alura em parceria com o Google Gemini).
 
 ## Descrição
 Este projeto web permite pesquisar por atletas do Cruzeiro Esporte Clube. O usuário digita o nome do atleta desejado e a aplicação retorna os resultados relevantes, exibindo informações como nome, descrição e um link para mais detalhes.
